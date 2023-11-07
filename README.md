@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abolfazl-Mousavi</h1>
 <h3 align="center">talented Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Bloackchain and WEB 3.0**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abolfazl-Mousavi/Portfolio](https://github.com/Abolfazl-Mousavi/Portfolio)
 
-- 📫 How to reach me **a.mousavi.doost.04@gmail.com**
+- 📫 How to reach me **a.mousavi.doost.04@gmail.com** & portfolio[https://abolfazlmousavi.netlify.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
