@@ -4,7 +4,7 @@
 
 - **Name:** Abolfazl Mousavi  
 - **Location:** Limbo  
-- **Field:** [Computer Science](https://if.uigm.ac.id/home/)  
+- **Field:** [Computer Science](https://en.wikipedia.org/wiki/Ostrich_algorithm)
 - **Proficient in:** JS/TS, Next.js  
 - **Skilled in:** UI/UX Design, Over Engineering, Being Late, Gaming  
 - **Experienced with:** Docker, Anger Management, System Design, CI/CD  
